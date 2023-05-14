@@ -1,0 +1,14 @@
+.list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    gap: 20px
+}
